@@ -1,2 +1,2 @@
 # DevOpsComposerServer
-DevOps Composer Server &lt;3  
+Bot Framework meets DevOps 
